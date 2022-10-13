@@ -13,8 +13,7 @@ public class GitTest {
         System.out.println("hot-fix test2!");
         System.out.println("hot-fix test33!");
         System.out.println("push test!");
-
-
+        System.out.println("pull test!");
 
         System.out.println("master3");
         System.out.println("master4");
